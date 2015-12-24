@@ -1,4 +1,8 @@
 /*
 This is empty on purpose! Your code to build the resume will go here.
  */
- $("#main").append(["lucky2710"]);
+ var email = "lucky@yahoo.com";
+ var new email = email.replace("yahoo","gmail");
+ console.log(email);
+ console.log(newemail);
+ 
